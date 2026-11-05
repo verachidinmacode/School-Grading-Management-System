@@ -3,7 +3,7 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-orange)
 ![Version](https://img.shields.io/badge/Version-2.0-blue)
-![Status](https://img.shields.io/badge/Status-In%20Development-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ## Project Overview
 
@@ -123,7 +123,9 @@ This is a console-based prototype. The current student portal uses Student ID lo
 
 Computer Science & Information Systems
 
-## Project Version
+## Project Status
 
-Version 2.0 - Permanent Data Storage
+Version 2.0 — Completed
+
+The current version successfully supports student registration, assignment grading, grade calculations, and permanent data storage.
 
